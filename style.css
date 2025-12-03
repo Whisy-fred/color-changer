@@ -110,5 +110,8 @@ h1::before{
     font-size: 0.7rem;
     
 }
+ .container{ 
+   width: 50%;
+}
 
 }
